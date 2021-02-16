@@ -1,5 +1,7 @@
 # test-radio
-
+```
+Radio button component
+```
 ## Project setup
 ```
 npm install
